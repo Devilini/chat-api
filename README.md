@@ -1,3 +1,5 @@
+### Задание: https://github.com/avito-tech/msg-backend-trainee-assignment
+
 ### Установка
 
 - **Для запуска можно использовать OpenServer (PHP: 7.4, MySQL: 8.0)**
